@@ -3,12 +3,19 @@ Prompts the user to enter a new password until all the seven rules for a passwor
 
 ## What it does
 There are seven rules that need to be met for a password to be accepted. These rules are the following:
+
 1: The password must contain at least eight characters
+
 2: The password must contain at least one uppercase letter
+
 3: The password must contain at least one lowercase letter
+
 4: The password must contain at least one number
+
 5: The password must contain at least one of these given special characters: @, !, #, ^, &, *, or $
+
 6: The password should not be previously leaked. The list of leaked passwords is contained in alleged-gmail-passwords file
+
 7: The password cannot consist of an English word. The list of 5 letter english words are in words_5 file
 
 ## How I programmed it
