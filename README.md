@@ -3,8 +3,11 @@ Prompts the user to enter a new password until all the seven rules for a passwor
 
 ## What it does
 There are seven rules that need to be met for a password to be accepted. These rules are the following:
+
 ###1: The password must contain at least eight characters
+
 ###2: The password must contain at least one uppercase letter
+
 ###3: The password must contain at least one lowercase letter
 ###4: The password must contain at least one number
 ###5: The password must contain at least one of these given special characters: @, !, #, ^, &, *, or $
